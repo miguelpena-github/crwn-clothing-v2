@@ -1,5 +1,5 @@
 .button-sign-in-container {
-    display: flex;
+    display: inline-flex;
     flex-direction: row;
-    place-content: space-between;
+    gap: 12px;
 }
